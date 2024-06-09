@@ -1,4 +1,3 @@
-![Image-Banner](https://github.com/HoangGuruu/resources-study-devops/assets/111829092/b1e6c967-6725-40d8-8734-2e2587983e65)
 
 <p align="center">
  <h1 align="center">Introduction</h1>
